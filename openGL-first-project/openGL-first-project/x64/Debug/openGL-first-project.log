@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwWindowHint referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwDestroyWindow referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+C:\Users\tamim\OneDrive\Documents\Visual Studio 2017\Projects\openGL-first-project\Libraries\lib\glfw3.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Users\tamim\onedrive\documents\visual studio 2017\Projects\openGL-first-project\x64\Debug\openGL-first-project.exe : fatal error LNK1120: 6 unresolved externals
